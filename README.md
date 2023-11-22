@@ -1,3 +1,49 @@
+
+# Organic-Uttarakhand
+![Screenshot 2023-11-22 185340](https://github.com/Ayushjoshi95/Organic-Uttarakhand/assets/53330184/2e307cbf-2f4f-46da-b12e-1024c3d1c060)
+
+
+# Organic Uttarakhand
+
+A website to sell and promote organic farming and its products in Uttarakhand that contains an e-shop for selling organic products, and all the information in the website is dynamic.
+
+* Mentions the milestones of Uttarakhand in Organic farming
+* Dynamically fetches and displays the product
+* Can add products to Cart and Wishlist
+* Also allows selling of your own product
+
+
+
+
+## Prerequisite
+XAMPP is a free and open-source cross-platform web server solution which interpreters for scripts written in the PHP and Perl programming languages.
+* Install and setup XAMPP package
+* Download XAMPP from here https://www.apachefriends.org/download.html
+
+* Create XAMPP folder manually in drive C like this C:\xampp
+
+* Start Installation of the downloaded `XAMPP' package
+## Get Started
+
+Clone the project
+
+```bash
+  git clone https://github.com/Ayushjoshi95/Organic-Uttarakhand.git
+```
+
+Go to the project directory
+
+```bash
+  cd Organic-Uttarakhand
+```
+
+
+Start the server
+
+```bash
+  npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,6 +84,34 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+SKIP_PREFLIGHT_CHECK=true
+
+
+
+## Features
+
+- Add and remove products from Cart and Wishlist
+- Selling products 
+- Cross platform
+- Responsive
+
+
+## 🛠 Built With
+* HTML
+* CSS
+* JavaScript
+* React
+* Php
+* MySql
+* REST API
+
 
 ## Learn More
 
