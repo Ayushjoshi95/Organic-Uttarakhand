@@ -1,6 +1,7 @@
 
 # Organic-Uttarakhand
-![Screenshot 2023-11-22 185340](https://github.com/Ayushjoshi95/Organic-Uttarakhand/assets/53330184/2e307cbf-2f4f-46da-b12e-1024c3d1c060)
+
+![Screenshot 2023-11-22 185340](https://github.com/Ayushjoshi95/Organic-Uttarakhand/assets/53330184/48ce917c-de98-4fb3-a952-7e5e9a3e1efa)
 
 
 # Organic Uttarakhand
